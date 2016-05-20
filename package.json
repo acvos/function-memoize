@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/acvos/function-promisify.git"
+    "url": "https://github.com/acvos/function-memoize.git"
   },
   "author": "Anthony Chernikov <achernikov@acvos>",
   "dependencies": {
